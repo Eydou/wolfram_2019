@@ -11,7 +11,7 @@ The goal of this project is to implement Wolfram’s elementary cellular automat
 | wolfram | 75% |
 
 ## Authors
- **[Edouard Touch](https://github.com/Eydou)***
+ **[Edouard Touch](https://github.com/Eydou)**
 
 [6.1]: http://i.imgur.com/0o48UoR.png (Follow me !)
 
