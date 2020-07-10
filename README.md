@@ -1,5 +1,10 @@
 # wolfram_2019
-FUN_wolfram_2019 Epitech
+
+## Objective
+
+The goal of this project is to implement Wolfram’s elementary cellular automaton in the terminal.
+
+## Test
 
 | Project | Moulinette |
 | --- | --- |
