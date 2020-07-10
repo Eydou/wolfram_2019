@@ -3,4 +3,4 @@ FUN_wolfram_2019 Epitech
 
 | Project | Moulinette |
 | --- | --- |
-| 207demography | 75% |
+| wolfram | 75% |
